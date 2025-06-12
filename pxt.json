@@ -1,0 +1,46 @@
+{
+    "name": "minswepe",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "browser-events": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#0000FF",
+        "#009B00",
+        "#FF0000",
+        "#00009B",
+        "#9B0000",
+        "#249CA3",
+        "#9B009B",
+        "#646464",
+        "#969696",
+        "#FFFFFF",
+        "#1DAA8E",
+        "#FFFF00",
+        "#FF00C8",
+        "#91463d",
+        "#000000"
+    ]
+}
